@@ -23,6 +23,6 @@ The game ends in a draw if the entire grid is filled, and no player wins.
    1 | 2 | 3
   ---|---|---
    4 | 5 | 6
-  ---|---|---
+  
    7 | 8 | 9
 
