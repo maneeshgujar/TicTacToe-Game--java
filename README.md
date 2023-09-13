@@ -21,8 +21,8 @@ The player who successfully places their symbol in three consecutive cells horiz
 The game ends in a draw if the entire grid is filled, and no player wins.
 <br>
 
-   1 | 2 | 3
-  ---|---|---
-   4 | 5 | 6
-  
-   7 | 8 | 9
+   1 | 2 | 3<br>
+  ---|---|---<br>
+   4 | 5 | 6<br>
+  ---|---|---<br>
+   7 | 8 | 9<br>
